@@ -155,3 +155,7 @@ Lưu ý: dự án hiện cho phép build bỏ qua lỗi TS/ESLint theo config tr
   - `font-sub`
   - `font-sans`
 - Khi chỉnh theme, luôn đối chiếu `design.md` để tránh lệch hệ màu.
+
+## Make by
+
+- https://github.com/oggyne259
